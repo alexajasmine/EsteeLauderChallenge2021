@@ -16,6 +16,7 @@
 		A89FEFB1268BEC5B009DF11B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A89FEFAF268BEC5B009DF11B /* LaunchScreen.storyboard */; };
 		A89FEFBC268BEC5B009DF11B /* EsteeLauderChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89FEFBB268BEC5B009DF11B /* EsteeLauderChallengeTests.swift */; };
 		A89FEFC7268BEC5B009DF11B /* EsteeLauderChallengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89FEFC6268BEC5B009DF11B /* EsteeLauderChallengeUITests.swift */; };
+		A89FF096268E9251009DF11B /* slideShowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89FF095268E9251009DF11B /* slideShowViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A89FEFC2268BEC5B009DF11B /* EsteeLauderChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EsteeLauderChallengeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A89FEFC6268BEC5B009DF11B /* EsteeLauderChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EsteeLauderChallengeUITests.swift; sourceTree = "<group>"; };
 		A89FEFC8268BEC5B009DF11B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A89FF095268E9251009DF11B /* slideShowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slideShowViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				A89FEFA3268BEC5A009DF11B /* SceneDelegate.swift */,
 				A89FEFA5268BEC5A009DF11B /* ViewController.swift */,
 				A89FEFA7268BEC5A009DF11B /* Main.storyboard */,
+				A89FF095268E9251009DF11B /* slideShowViewController.swift */,
 				A89FEFAD268BEC5B009DF11B /* Assets.xcassets */,
 				A89FEFAF268BEC5B009DF11B /* LaunchScreen.storyboard */,
 				A89FEFB2268BEC5B009DF11B /* Info.plist */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A89FEFA6268BEC5A009DF11B /* ViewController.swift in Sources */,
+				A89FF096268E9251009DF11B /* slideShowViewController.swift in Sources */,
 				A89FEFAC268BEC5A009DF11B /* EsteeLauderChallenge.xcdatamodeld in Sources */,
 				A89FEFA2268BEC5A009DF11B /* AppDelegate.swift in Sources */,
 				A89FEFA4268BEC5A009DF11B /* SceneDelegate.swift in Sources */,
